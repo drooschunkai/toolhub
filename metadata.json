@@ -1,0 +1,6 @@
+{
+  "name": "toolhub - Multi Tool Hub",
+  "description": "A fully responsive, modern, premium-quality hub with 20+ frontend-only tools with glowing futuristic UI design.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
